@@ -1,0 +1,4 @@
+{
+	"cmd": ["node", "--use-strict", "--harmony", "$file"],
+	"selector": "source.js"
+}

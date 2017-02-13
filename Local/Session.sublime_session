@@ -1,0 +1,1895 @@
+{
+	"folder_history":
+	[
+		"/D/node",
+		"/D/min_wx",
+		"/D/min_wx/wx-scrollable-tab-view",
+		"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/qinjia.vscode-wechat-0.0.5",
+		"/D/h5/html",
+		"/C/Users/Jax/Downloads/demo",
+		"/D/min_wx/duotu",
+		"/D/html",
+		"/D/h5/w3school_tiy",
+		"/D/java/haiyan",
+		"/D/java/Spring-Learing",
+		"/D/android/MVP/YourDay",
+		"/D/android/rx/RxJavaApp",
+		"/D/hexo",
+		"/D/coding/Bilibili",
+		"/D/coding/MeilaApp",
+		"/D/android/plaid",
+		"/D/android/designSupport/CoordinatorLayoutDemo",
+		"/D/android/designSupport/android-FancyBehaviorDemo",
+		"/D/android/duotu/app/src/main/java/com/saipeisi/duotu/network",
+		"/D/android/duotu",
+		"/D/android/UltimateRecyclerView",
+		"/D/coding/bilibili-android-client",
+		"/D/coding/sobig",
+		"/D/android/MVP",
+		"/D/android/MVP/AndroidMVPSample",
+		"/D/android/MVP/android-architecture/todoapp",
+		"/D/coding/likequanmintv",
+		"/D/coding/DropDownMenu",
+		"/D/android/PocketHub",
+		"/D/android"
+	],
+	"last_version": 3126,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 730.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ul",
+						"url\t(build.gradle)"
+					],
+					[
+						"li",
+						"li\tTag"
+					],
+					[
+						"sty",
+						"stylesheet"
+					],
+					[
+						"html",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"cen",
+						"align-content"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"layout",
+						"layout_width"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"material",
+						"Material Theme: Configuration"
+					],
+					[
+						"theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"ssjava",
+						"Set Syntax: Java"
+					],
+					[
+						"ssmd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssjsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"format",
+						"Eclipse: Format Java"
+					],
+					[
+						"java",
+						"Project: Save As"
+					],
+					[
+						"for",
+						"CodeFormatter: Format Code"
+					],
+					[
+						"",
+						"Build With: JavaC"
+					],
+					[
+						"sshteml",
+						"Set Syntax: HTML (Erlang)"
+					],
+					[
+						"ssmx",
+						"Set Syntax: XML"
+					],
+					[
+						"ssjvaa",
+						"Set Syntax: Java"
+					],
+					[
+						"ssmxl",
+						"Set Syntax: XML"
+					],
+					[
+						"ssxm",
+						"Set Syntax: XML"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssxml",
+						"Set Syntax: XML"
+					],
+					[
+						"ma",
+						"Material Theme: Activate theme"
+					],
+					[
+						"Material Theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Presets"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"ssja",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"ssjva",
+						"Set Syntax: Java"
+					],
+					[
+						"sstext",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sst",
+						"Set Syntax: Textile"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 311.0,
+				"history":
+				[
+					"ls",
+					"..",
+					"help",
+					"git status ",
+					"int",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+				"/D/h5/w3school_tiy/demo2.html",
+				"/D/h5/html/css/index.css",
+				"/D/h5/w3school_tiy/demo1.html",
+				"/D/h5/demo1.html",
+				"/E/yimeng/Beta1/Code/Branch/YIM_Background_System1.0.0/user-chain/src/main/java/com/epro/yimeng/user/controller/Snippet.java",
+				"/D/android/MVP/MVPDemo/app/src/main/java/com/example/gs/mvpdemo/mvp/IView.java",
+				"/D/android/MVP/MVPDemo/app/src/main/java/com/example/gs/mvpdemo/activity/LoginActivity.java",
+				"/D/coding/Bilibili/app/src/main/java/com/jax/bilibili/base/BaseActivity.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java",
+				"/D/android/MVP/AndroidMVPSample/app/src/main/java/com/wuxiaolong/androidmvpsample/mvp/other/MvpActivity.java",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/src/main/res/layout/activity_main.xml",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/src/main/java/com/example/zcp/coordinatorlayoutdemo/ui/StatusBarUtil.java",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/src/main/java/com/example/zcp/coordinatorlayoutdemo/activity/MainActivity.java",
+				"/D/android/designSupport/CoordinatorLayoutDemo/build.gradle",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/build.gradle",
+				"/D/android/designSupport/CoordinatorLayoutDemo/gradle/wrapper/gradle-wrapper.properties",
+				"/D/android/plaid/app/build.gradle",
+				"/D/java/sloth/README_CN.md",
+				"/D/android/MVP/MVPDemo/app/src/main/java/com/example/gs/mvpdemo/mvp/IPresenter.java",
+				"/D/android/plaid/app/src/main/res/drawable/ic_upvote_filled_24dp_white.xml",
+				"/D/android/plaid/app/src/main/res/drawable/ic_comment_light.xml",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java",
+				"/D/android/MVP/android-architecture/todoapp/app/.gitignore",
+				"/D/android/MVP/android-architecture/todoapp/app/build.gradle",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/LauncherActivity.java",
+				"/D/android/designSupport/android-FancyBehaviorDemo/app/src/main/res/layout/activity_scrolling.xml",
+				"/D/android/designSupport/android-FancyBehaviorDemo/app/src/main/java/com/example/cyandev/androidplayground/ScrollingActivity.java",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/loadmoredemo/BasicFunctions.java",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/res/layout/custom_bottom_progressbar.xml",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/rvComponents/sectionZeroAdapter.java",
+				"/D/coding/Bilibili/app/build.gradle",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/MainList.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/module/home/recommend/HomeRecommendedFragment.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/module/home/HomePageFragment.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/base/RxLazyFragment.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/network/auxiliary/ApiConstants.java",
+				"/D/coding/likequanmintv/app/src/main/AndroidManifest.xml",
+				"/D/android/MVP/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginInteractor.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/base/BaseView.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/utils/JumpUtil.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/utils/RxUtil.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/base/BasePresenter.java",
+				"/D/coding/likequanmintv/app/src/main/java/android/marshon/likequanmintv/librarys/mvpbase/BaseMvpFragment.java",
+				"/D/coding/likequanmintv/app/src/main/java/android/marshon/likequanmintv/mvp/main/LiveFragment.java",
+				"/D/android/MVP/T-MVP/app/src/main/java/com/base/BaseView.java",
+				"/D/android/MVP/AndroidMVPSample/app/build.gradle",
+				"/D/android/MVP/T-MVP/app/src/main/java/com/base/BasePresenter.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/model/net/RetrofitHelper.java",
+				"/D/coding/likequanmintv/app/build.gradle",
+				"/D/coding/DropDownMenu/library/src/main/res/anim/dd_mask_out.xml",
+				"/D/coding/Bilibili/.gitignore",
+				"/D/coding/Bilibili/app/.gitignore",
+				"/D/coding/DropDownMenu/app/src/main/java/com/yyy/djk/dropdownmenu/MainActivity.java",
+				"/D/coding/DropDownMenu/library/src/main/res/anim/dd_menu_in.xml",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/D/android/PocketHub/app/build.gradle",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/network/RetrofitHelper.java",
+				"/D/android/PocketHub/local.properties",
+				"/D/coding/MyDiary/app/src/main/java/com/kiminonawa/mydiary/init/InitActivity.java",
+				"/D/coding/MyDiary/app/src/main/java/com/kiminonawa/mydiary/setting/SettingActivity.java",
+				"/D/coding/bilibili-android-client/app/build.gradle",
+				"/D/android/Unlock163Music/gradle/wrapper/gradle-wrapper.properties",
+				"/D/android/ExpandTextView/extextview/src/main/java/com/lcodecore/extextview/ExpandTextView.java",
+				"/D/android/BadgeViewDemo/badgeView/src/main/java/com/jauker/widget/BadgeView.java",
+				"/D/android/BadgeView/library/src/main/java/com/allenliu/badgeview/BadgeView.java",
+				"/D/android/yimeng/app/src/main/java/com/saipeisi/yimeng/activity/ClothesTryActivity.java",
+				"/D/android/Unlock163Music/build.gradle",
+				"/D/android/Unlock163Music/app/build.gradle",
+				"/D/android/BadgeViewDemo/badgeViewDemo/src/main/java/com/jauker/badgeview/example/ViewsFragment.java",
+				"/G/files/qq/1152331105/FileRecv/after_sale_safeguard.html",
+				"/D/coding/sobig/app/src/main/res/layout/activity_bill.xml",
+				"/D/coding/sobig/app/src/main/res/layout/fragment_mine.xml",
+				"/G/files/qq/1152331105/FileRecv/about_us.html",
+				"/D/coding/Cicerone/sample/src/main/java/ru/terrakok/cicerone/sample/ui/main/MainActivity.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/component/ImageLoader.java",
+				"/C/Users/Jax/Downloads/WebTest_android/WebTest/local.properties",
+				"/D/coding/sobig/app/src/main/AndroidManifest.xml",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/home/MainActivity.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/NearFriendAdapter.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/IntegralAdapter.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/ImageAdapter.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/ActivitiesListAdapter.java",
+				"/D/h5/index.html",
+				"/D/h5/about_us.html",
+				"/C/Users/Jax/Downloads/WebTest_android/WebTest/app/src/main/java/com/webtest/webtest/WebViewTest.java",
+				"/C/Users/Jax/Downloads/WebTest_android/WebTest/app/src/main/java/com/webtest/webtest/RestApiAutoLoginSignTest.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/chat/activity/ShowBigImageActivity.java",
+				"/D/coding/sobig/app/src/main/res/layout/activity_photo_view.xml",
+				"/D/coding/sobig/app/src/main/res/layout/activity_show_image.xml",
+				"/G/files/qq/1152331105/FileRecv/编辑112.txt",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Program Files/Git/etc/bash.bashrc",
+				"/C/Users/Jax/Desktop/Bash-AndroidStudio.bat",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/widget/NineGridLayout/NineGridlayout.java",
+				"/C/Users/Jax/Downloads/hosts",
+				"/D/java/HelloWorld.java",
+				"/D/coding/sobig/app/src/main/res/layout/include_viewpager.xml",
+				"/D/coding/sobig/app/src/main/res/layout/item_home_activity.xml",
+				"/C/Users/Jax/Desktop/index.html",
+				"/C/Users/Jax/Desktop/md/MyUnityExport11/Clothes/assets/Config.xml",
+				"/G/files/qq/1152331105/FileRecv/上传资源500.txt",
+				"/D/coding/sobig/app/src/main/res/values/dimens.xml",
+				"/D/coding/sobig/app/src/main/res/layout/content_user_center.xml",
+				"/C/Program Files/Java/jdk1.8.0_102/bin/runJava.bat",
+				"/D/java/Test.java",
+				"/C/Users/Jax/Desktop/runJava.bat",
+				"/D/java/test.java",
+				"/D/android/okhttp-OkGo/app/src/main/java/com/lzy/demo/WebActivity.java",
+				"/D/android/okhttp-OkGo/app/src/main/java/com/lzy/demo/MainActivity.java",
+				"/D/android/okhttp-OkGo/app/src/main/java/com/lzy/demo/GApp.java",
+				"/D/android/okhttp-OkGo/app/src/main/res/layout/activity_form_upload.xml",
+				"/E/CloudMusic/戴荃 - 悟空.mp3",
+				"/D/android/Clothes/app/src/main/AndroidManifest.xml",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/coding/DesignSupportLibrarySample/local.properties",
+				"/D/android/Banner/local.properties",
+				"/D/coding/monkey-android/app/build.gradle",
+				"/G/files/qq/1152331105/FileRecv/MyUnityExport3/Clothes/assets/Config.xml",
+				"/G/files/qq/1152331105/FileRecv/MyUnityExport3/Clothes/assets/Temp.txt",
+				"/C/Users/Jax/Desktop/log.txt",
+				"/D/android/yimeng/app/src/main/assets/Config.xml",
+				"/D/android/Better-Link-Movement-Method/better-link-movement-method/src/main/java/me/saket/bettermovementmethod/BetterLinkMovementMethod.java",
+				"/D/android/Better-Link-Movement-Method/settings.gradle",
+				"/D/android/Better-Link-Movement-Method/local.properties"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"",
+					"<current file>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"activityDiaryBinding",
+					"12-27 17:44:04.655 421-421/com.saipeisi.yimeng D/YIMENG: ║ ",
+					"mPresenter",
+					"onPreCreate",
+					"g",
+					"minSdkVersion",
+					"scrolling_header",
+					"collapsed_header_height",
+					"setadapter",
+					"loadmo",
+					"linearLayoutManager",
+					"insertInternal",
+					"ultimateRecyclerView",
+					"enableLoadMore",
+					"getItem",
+					"SimpleAdapter",
+					"bindToLifecycle",
+					"recommendBanners",
+					"HomePagerAdapter",
+					"mHomeAdapter",
+					"HomeRecommendedFragment",
+					"bindToLifecycle",
+					"getData",
+					"getNetworkInfo",
+					"UserAgentInterceptor",
+					"Constants",
+					"mRecyclerView",
+					"mTasksPresenter",
+					"Preconditions",
+					"mAddEditTaskPresenter",
+					"TasksPresenter",
+					"mTasksView",
+					"mTasksPresenter",
+					"mPresenter",
+					"subscribe",
+					"star",
+					"start",
+					"mTasksView",
+					"lazyFetchDataIfPrepared",
+					"isViewPrepared",
+					"mPresenter",
+					"login",
+					"CompositeSubscription",
+					"mBasePresent",
+					"mActivity",
+					"liveFragmentPresenter",
+					"mFragmentComponent",
+					"maskView",
+					"tabMenuView",
+					"addTab",
+					"add",
+					"popupMenuViews",
+					"switchMenu",
+					"maskView",
+					"menuSelectedIcon",
+					"mFilePath",
+					"shareImageDialog",
+					"mPopupWindow",
+					"mGender",
+					"tshow",
+					"mFabricsList",
+					"mProductName",
+					"readModelOfProduction",
+					"getModuleUrl",
+					"getFigureList",
+					"getfigurelist",
+					"TYPE_ANDROID",
+					"getModuleUrl",
+					"readModelOfProduction",
+					";\n",
+					"updateScreenNames",
+					"mNewFriendBadge",
+					"BadgeView",
+					"PhotoViewActivity",
+					"mPagerAdapter",
+					"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCRaGM65NYVlz5gKvbpFnawNULL6xbwmyIiPhUKJWCGKlfMDxE7eSej83N2sf1syN",
+					"NineGridAdapter",
+					"NineGridlayout",
+					"start",
+					"AppTheme",
+					"重",
+					"mBannerPager",
+					"stopTurning",
+					"mBannerList",
+					"mBannerPager",
+					"banner",
+					"BannerPager_canLoop",
+					"pass",
+					"visiab",
+					"offset",
+					"id",
+					"sendBroadcast",
+					"mMessageChange",
+					"ACTION_MESSAGE_CHANGE",
+					"mMessageChange",
+					"registerReceiver",
+					"\"\n",
+					"NetUtils",
+					"hasNetWorkConection",
+					"unity",
+					"error",
+					"format",
+					"MAP_ADDRESSES",
+					"PHONE_NUMBERS",
+					"Linkify",
+					"Constant",
+					"onpage",
+					"finish",
+					"mJsBridge",
+					"js",
+					"loadjs",
+					"setHorizontalScrollBarEnabled",
+					"initRecyclerView",
+					"mAdapter",
+					"MultiTypeAdapter",
+					"bindToLifecycle",
+					"adapter",
+					"tshow",
+					"UnityActivity",
+					"mProgressBar",
+					"article",
+					"stylesheet",
+					"user_info",
+					"\\",
+					"payv2",
+					"getOut_trade_no",
+					"pay",
+					"PID"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 66.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 110.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"fragment_diary",
+						"app\\src\\main\\res\\layout\\fragment_diary.xml"
+					],
+					[
+						"activity_diary",
+						"app\\src\\main\\res\\layout\\activity_diary.xml"
+					],
+					[
+						"badgeview",
+						"D\\android\\BadgeViewDemo\\badgeView\\src\\main\\java\\com\\jauker\\widget\\BadgeView.java"
+					],
+					[
+						"activity_show_image",
+						"D\\coding\\sobig\\app\\src\\main\\res\\layout\\activity_show_image.xml"
+					],
+					[
+						"bigimage",
+						"D\\coding\\sobig\\app\\src\\main\\java\\com\\saipeisi\\sobig\\chat\\activity\\ShowBigImageActivity.java"
+					],
+					[
+						"",
+						"WebTest\\app\\src\\main\\java\\com\\webtest\\webtest\\RestApiAutoLoginSignTest.java"
+					],
+					[
+						"include_viewpager",
+						"coding\\sobig\\app\\src\\main\\res\\layout\\include_viewpager.xml"
+					],
+					[
+						"activity_form_upload",
+						"android\\okhttp-OkGo\\app\\src\\main\\res\\layout\\activity_form_upload.xml"
+					],
+					[
+						"duotu",
+						"android\\duotu\\app\\src\\main\\java\\com\\saipeisi\\duotu\\network\\DuoTuApi.java"
+					],
+					[
+						"activity_login",
+						"app\\src\\main\\res\\layout\\activity_login.xml"
+					],
+					[
+						"loginac",
+						"app\\src\\main\\java\\com\\saipeisi\\sobig\\user\\LoginActivity.java"
+					],
+					[
+						"unityactivity",
+						"clothes\\AndroidProject\\Clothes\\src\\com\\yxf\\clothes\\UnityActivity.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 133.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1354.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"conlog",
+						"console.log()"
+					],
+					[
+						"rel",
+						"relative\t(index.wxss)"
+					],
+					[
+						"poo",
+						"position"
+					],
+					[
+						"no",
+						"normal"
+					],
+					[
+						"pre-wa",
+						"pre-wrap"
+					],
+					[
+						"pr",
+						"pre"
+					],
+					[
+						"rg",
+						"rgb()"
+					],
+					[
+						"url",
+						"url()"
+					],
+					[
+						"backgc",
+						"background-color"
+					],
+					[
+						"j",
+						"jquery-1.8.2.min.js\t(apply_five.html)"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"ul",
+						"url\t(build.gradle)"
+					],
+					[
+						"li",
+						"li\tTag"
+					],
+					[
+						"sty",
+						"stylesheet"
+					],
+					[
+						"html",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"cen",
+						"align-content"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"layout",
+						"layout_width"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/node/helloWorld.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 132884,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Java/JavaC.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"ssjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"sscs",
+						"Set Syntax: CSS3"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"",
+						"ANF: Delete Current File"
+					],
+					[
+						"remove page",
+						"Package Control: Remove Package"
+					],
+					[
+						"anf",
+						"ANF: Delete Current File"
+					],
+					[
+						"pack rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packup",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"material",
+						"Material Theme: Configuration"
+					],
+					[
+						"theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"ssjava",
+						"Set Syntax: Java"
+					],
+					[
+						"ssmd",
+						"Set Syntax: Markdown"
+					],
+					[
+						"ssjsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"format",
+						"Eclipse: Format Java"
+					],
+					[
+						"java",
+						"Project: Save As"
+					],
+					[
+						"for",
+						"CodeFormatter: Format Code"
+					],
+					[
+						"sshteml",
+						"Set Syntax: HTML (Erlang)"
+					],
+					[
+						"ssmx",
+						"Set Syntax: XML"
+					],
+					[
+						"ssjvaa",
+						"Set Syntax: Java"
+					],
+					[
+						"ssmxl",
+						"Set Syntax: XML"
+					],
+					[
+						"ssxm",
+						"Set Syntax: XML"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssxml",
+						"Set Syntax: XML"
+					],
+					[
+						"ma",
+						"Material Theme: Activate theme"
+					],
+					[
+						"Material Theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Presets"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"ssja",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjva",
+						"Set Syntax: Java"
+					],
+					[
+						"sstext",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sst",
+						"Set Syntax: Textile"
+					]
+				],
+				"width": 518.0
+			},
+			"console":
+			{
+				"height": 311.0,
+				"history":
+				[
+					"ls",
+					"..",
+					"help",
+					"git status ",
+					"int",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/node"
+			],
+			"file_history":
+			[
+				"/C/Users/Jax/Documents/WeChat Files/FULI19941210/Attachment/shadowsocks-win-2.3/gui-config.json",
+				"/C/Users/Jax/Desktop/fuck-wangyi",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/out/src/extension.js",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/qinjia.vscode-wechat-0.0.5/out/src/fileAssociation.js",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/coderfee.vscode-wxml-0.1.7/snippets/wxml.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/qinjia.vscode-wechat-0.0.5/jsconfig.json",
+				"/D/h5/html/index.html",
+				"/D/h5/html/css/index.css",
+				"/D/h5/html/css/bg.css",
+				"/C/Users/Jax/Downloads/demo/page/component/component-pages/view/view.js",
+				"/C/Users/Jax/Downloads/demo/page/component/component-pages/view/view.wxml",
+				"/C/Users/Jax/Downloads/demo/page/component/component-pages/checkbox/checkbox.wxss",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/package.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/out/src/formatter.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/qinjia.vscode-wechat-0.0.5/package.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/qinjia.vscode-wechat-0.0.5/out/src/wechatApp.js",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/qinjia.vscode-wechat-0.0.5/out/src/typeDefinition.js",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/node_modules/js-beautify/package.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/node_modules/js-beautify/js/index.js",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/README.md",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/node_modules/ini/package.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/node_modules/js-beautify/bower.json",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/node_modules/js-beautify/js/bin/js-beautify.js",
+				"/C/Users/Jax/AppData/Roaming/EgretWing/User/extensions/lonefy.vscode-JS-CSS-HTML-formatter-0.2.2/node_modules/js-beautify/js/config/defaults.json",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/C/Users/Jax/Downloads/demo/page/component/component-pages/scroll-view/scroll-view.wxml",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+				"/D/h5/w3school_tiy/demo1.html",
+				"/D/html/test/index.html",
+				"/D/h5/html/apply_five.html",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/D/h5/html/css/apply_five.css",
+				"/D/h5/html/this",
+				"/D/android/MVP/YourDay/app/src/main/res/layout/fragment_diary.xml",
+				"/D/android/MVP/YourDay/app/src/main/java/com/wuxiao/yourday/home/HomeActivity.java",
+				"/D/android/MVP/YourDay/app/src/main/res/layout/activity_diary.xml",
+				"/D/java/haiyan/build.gradle",
+				"/C/Users/Jax/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+				"/D/h5/w3school_tiy/demo2.html",
+				"/D/h5/demo1.html",
+				"/E/yimeng/Beta1/Code/Branch/YIM_Background_System1.0.0/user-chain/src/main/java/com/epro/yimeng/user/controller/Snippet.java",
+				"/D/android/MVP/MVPDemo/app/src/main/java/com/example/gs/mvpdemo/mvp/IView.java",
+				"/D/android/MVP/MVPDemo/app/src/main/java/com/example/gs/mvpdemo/activity/LoginActivity.java",
+				"/D/coding/Bilibili/app/src/main/java/com/jax/bilibili/base/BaseActivity.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/BaseView.java",
+				"/D/android/MVP/AndroidMVPSample/app/src/main/java/com/wuxiaolong/androidmvpsample/mvp/other/MvpActivity.java",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/src/main/res/layout/activity_main.xml",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/src/main/java/com/example/zcp/coordinatorlayoutdemo/ui/StatusBarUtil.java",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/src/main/java/com/example/zcp/coordinatorlayoutdemo/activity/MainActivity.java",
+				"/D/android/designSupport/CoordinatorLayoutDemo/build.gradle",
+				"/D/android/designSupport/CoordinatorLayoutDemo/app/build.gradle",
+				"/D/android/designSupport/CoordinatorLayoutDemo/gradle/wrapper/gradle-wrapper.properties",
+				"/D/android/plaid/app/build.gradle",
+				"/D/java/sloth/README_CN.md",
+				"/D/android/MVP/MVPDemo/app/src/main/java/com/example/gs/mvpdemo/mvp/IPresenter.java",
+				"/D/android/plaid/app/src/main/res/drawable/ic_upvote_filled_24dp_white.xml",
+				"/D/android/plaid/app/src/main/res/drawable/ic_comment_light.xml",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksPresenter.java",
+				"/D/android/MVP/android-architecture/todoapp/app/.gitignore",
+				"/D/android/MVP/android-architecture/todoapp/app/build.gradle",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/LauncherActivity.java",
+				"/D/android/designSupport/android-FancyBehaviorDemo/app/src/main/res/layout/activity_scrolling.xml",
+				"/D/android/designSupport/android-FancyBehaviorDemo/app/src/main/java/com/example/cyandev/androidplayground/ScrollingActivity.java",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/loadmoredemo/BasicFunctions.java",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/res/layout/custom_bottom_progressbar.xml",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/rvComponents/sectionZeroAdapter.java",
+				"/D/coding/Bilibili/app/build.gradle",
+				"/D/android/UltimateRecyclerView/UltimateRecyclerView/app/src/main/java/com/marshalchen/ultimaterecyclerview/demo/MainList.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/module/home/recommend/HomeRecommendedFragment.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/module/home/HomePageFragment.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/base/RxLazyFragment.java",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/network/auxiliary/ApiConstants.java",
+				"/D/coding/likequanmintv/app/src/main/AndroidManifest.xml",
+				"/D/android/MVP/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginInteractor.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/base/BaseView.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/utils/JumpUtil.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/utils/RxUtil.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksContract.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/base/BasePresenter.java",
+				"/D/coding/likequanmintv/app/src/main/java/android/marshon/likequanmintv/librarys/mvpbase/BaseMvpFragment.java",
+				"/D/coding/likequanmintv/app/src/main/java/android/marshon/likequanmintv/mvp/main/LiveFragment.java",
+				"/D/android/MVP/T-MVP/app/src/main/java/com/base/BaseView.java",
+				"/D/android/MVP/AndroidMVPSample/app/build.gradle",
+				"/D/android/MVP/T-MVP/app/src/main/java/com/base/BasePresenter.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/util/SimpleCountingIdlingResource.java",
+				"/D/android/MVP/android-architecture/todoapp/app/src/main/java/com/example/android/architecture/blueprints/todoapp/data/source/TasksRepository.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/model/net/RetrofitHelper.java",
+				"/D/coding/likequanmintv/app/build.gradle",
+				"/D/coding/DropDownMenu/library/src/main/res/anim/dd_mask_out.xml",
+				"/D/coding/Bilibili/.gitignore",
+				"/D/coding/Bilibili/app/.gitignore",
+				"/D/coding/DropDownMenu/app/src/main/java/com/yyy/djk/dropdownmenu/MainActivity.java",
+				"/D/coding/DropDownMenu/library/src/main/res/anim/dd_menu_in.xml",
+				"/D/android/PocketHub/app/build.gradle",
+				"/D/coding/bilibili-android-client/app/src/main/java/com/hotbitmapgg/bilibili/network/RetrofitHelper.java",
+				"/D/android/PocketHub/local.properties",
+				"/D/coding/MyDiary/app/src/main/java/com/kiminonawa/mydiary/init/InitActivity.java",
+				"/D/coding/MyDiary/app/src/main/java/com/kiminonawa/mydiary/setting/SettingActivity.java",
+				"/D/coding/bilibili-android-client/app/build.gradle",
+				"/D/android/Unlock163Music/gradle/wrapper/gradle-wrapper.properties",
+				"/D/android/ExpandTextView/extextview/src/main/java/com/lcodecore/extextview/ExpandTextView.java",
+				"/D/android/BadgeViewDemo/badgeView/src/main/java/com/jauker/widget/BadgeView.java",
+				"/D/android/BadgeView/library/src/main/java/com/allenliu/badgeview/BadgeView.java",
+				"/D/android/yimeng/app/src/main/java/com/saipeisi/yimeng/activity/ClothesTryActivity.java",
+				"/D/android/Unlock163Music/build.gradle",
+				"/D/android/Unlock163Music/app/build.gradle",
+				"/D/android/BadgeViewDemo/badgeViewDemo/src/main/java/com/jauker/badgeview/example/ViewsFragment.java",
+				"/G/files/qq/1152331105/FileRecv/after_sale_safeguard.html",
+				"/D/coding/sobig/app/src/main/res/layout/activity_bill.xml",
+				"/D/coding/sobig/app/src/main/res/layout/fragment_mine.xml",
+				"/G/files/qq/1152331105/FileRecv/about_us.html",
+				"/D/coding/Cicerone/sample/src/main/java/ru/terrakok/cicerone/sample/ui/main/MainActivity.java",
+				"/D/android/MVP/Ghost/app/src/main/java/com/zcy/ghost/vivideo/component/ImageLoader.java",
+				"/C/Users/Jax/Downloads/WebTest_android/WebTest/local.properties",
+				"/D/coding/sobig/app/src/main/AndroidManifest.xml",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/home/MainActivity.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/NearFriendAdapter.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/IntegralAdapter.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/ImageAdapter.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/adapter/ActivitiesListAdapter.java",
+				"/D/h5/index.html",
+				"/D/h5/about_us.html",
+				"/C/Users/Jax/Downloads/WebTest_android/WebTest/app/src/main/java/com/webtest/webtest/WebViewTest.java",
+				"/C/Users/Jax/Downloads/WebTest_android/WebTest/app/src/main/java/com/webtest/webtest/RestApiAutoLoginSignTest.java",
+				"/D/coding/sobig/app/src/main/java/com/saipeisi/sobig/chat/activity/ShowBigImageActivity.java",
+				"/D/coding/sobig/app/src/main/res/layout/activity_photo_view.xml",
+				"/D/coding/sobig/app/src/main/res/layout/activity_show_image.xml"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"",
+					"<current file>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"www.google.com",
+					"files.associations",
+					"css",
+					"indent_inner_html",
+					"Sorry, this language is not supported. Only support Javascript, CSS and HTML.",
+					"only ",
+					"\",\n",
+					"body-view",
+					"; ",
+					" \n",
+					"; ",
+					"title",
+					"widgets",
+					"activityDiaryBinding",
+					"12-27 17:44:04.655 421-421/com.saipeisi.yimeng D/YIMENG: ║ ",
+					"mPresenter",
+					"onPreCreate",
+					"g",
+					"minSdkVersion",
+					"scrolling_header",
+					"collapsed_header_height",
+					"setadapter",
+					"loadmo",
+					"linearLayoutManager",
+					"insertInternal",
+					"ultimateRecyclerView",
+					"enableLoadMore",
+					"getItem",
+					"SimpleAdapter",
+					"bindToLifecycle",
+					"recommendBanners",
+					"HomePagerAdapter",
+					"mHomeAdapter",
+					"HomeRecommendedFragment",
+					"bindToLifecycle",
+					"getData",
+					"getNetworkInfo",
+					"UserAgentInterceptor",
+					"Constants",
+					"mRecyclerView",
+					"mTasksPresenter",
+					"Preconditions",
+					"mAddEditTaskPresenter",
+					"TasksPresenter",
+					"mTasksView",
+					"mTasksPresenter",
+					"mPresenter",
+					"subscribe",
+					"star",
+					"start",
+					"mTasksView",
+					"lazyFetchDataIfPrepared",
+					"isViewPrepared",
+					"mPresenter",
+					"login",
+					"CompositeSubscription",
+					"mBasePresent",
+					"mActivity",
+					"liveFragmentPresenter",
+					"mFragmentComponent",
+					"maskView",
+					"tabMenuView",
+					"addTab",
+					"add",
+					"popupMenuViews",
+					"switchMenu",
+					"maskView",
+					"menuSelectedIcon",
+					"mFilePath",
+					"shareImageDialog",
+					"mPopupWindow",
+					"mGender",
+					"tshow",
+					"mFabricsList",
+					"mProductName",
+					"readModelOfProduction",
+					"getModuleUrl",
+					"getFigureList",
+					"getfigurelist",
+					"TYPE_ANDROID",
+					"getModuleUrl",
+					"readModelOfProduction",
+					";\n",
+					"updateScreenNames",
+					"mNewFriendBadge",
+					"BadgeView",
+					"PhotoViewActivity",
+					"mPagerAdapter",
+					"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCRaGM65NYVlz5gKvbpFnawNULL6xbwmyIiPhUKJWCGKlfMDxE7eSej83N2sf1syN",
+					"NineGridAdapter",
+					"NineGridlayout",
+					"start",
+					"AppTheme",
+					"重",
+					"mBannerPager",
+					"stopTurning",
+					"mBannerList",
+					"mBannerPager",
+					"banner",
+					"BannerPager_canLoop",
+					"pass",
+					"visiab",
+					"offset",
+					"id",
+					"sendBroadcast",
+					"mMessageChange",
+					"ACTION_MESSAGE_CHANGE",
+					"mMessageChange",
+					"registerReceiver",
+					"\"\n",
+					"NetUtils",
+					"hasNetWorkConection",
+					"unity",
+					"error",
+					"format",
+					"MAP_ADDRESSES",
+					"PHONE_NUMBERS",
+					"Linkify",
+					"Constant",
+					"onpage",
+					"finish",
+					"mJsBridge",
+					"js",
+					"loadjs",
+					"setHorizontalScrollBarEnabled",
+					"initRecyclerView",
+					"mAdapter",
+					"MultiTypeAdapter"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\node"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/node/helloWorld.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"open_with_edit": true,
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Windows/System32/drivers/etc/hosts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 132884,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8942,
+										8956
+									],
+									[
+										12915,
+										12929
+									],
+									[
+										13298,
+										13312
+									],
+									[
+										14340,
+										14354
+									],
+									[
+										106634,
+										106648
+									],
+									[
+										106666,
+										106680
+									],
+									[
+										106698,
+										106712
+									],
+									[
+										106730,
+										106744
+									],
+									[
+										106762,
+										106776
+									],
+									[
+										106794,
+										106808
+									],
+									[
+										106826,
+										106840
+									],
+									[
+										106858,
+										106872
+									],
+									[
+										106890,
+										106904
+									],
+									[
+										106922,
+										106936
+									],
+									[
+										106954,
+										106968
+									],
+									[
+										106986,
+										107000
+									],
+									[
+										107018,
+										107032
+									],
+									[
+										107050,
+										107064
+									],
+									[
+										107082,
+										107096
+									],
+									[
+										107114,
+										107128
+									],
+									[
+										107146,
+										107160
+									],
+									[
+										107178,
+										107192
+									],
+									[
+										107210,
+										107224
+									],
+									[
+										107242,
+										107256
+									],
+									[
+										107274,
+										107288
+									],
+									[
+										107306,
+										107320
+									],
+									[
+										107338,
+										107352
+									],
+									[
+										107370,
+										107384
+									],
+									[
+										107402,
+										107416
+									],
+									[
+										107434,
+										107448
+									],
+									[
+										107466,
+										107480
+									],
+									[
+										107498,
+										107512
+									],
+									[
+										107530,
+										107544
+									],
+									[
+										107562,
+										107576
+									],
+									[
+										107594,
+										107608
+									],
+									[
+										107626,
+										107640
+									],
+									[
+										107658,
+										107672
+									],
+									[
+										107690,
+										107704
+									],
+									[
+										107722,
+										107736
+									],
+									[
+										107754,
+										107768
+									],
+									[
+										107786,
+										107800
+									],
+									[
+										107818,
+										107832
+									],
+									[
+										107850,
+										107864
+									],
+									[
+										107882,
+										107896
+									],
+									[
+										107914,
+										107928
+									],
+									[
+										107946,
+										107960
+									],
+									[
+										107978,
+										107992
+									],
+									[
+										108010,
+										108024
+									],
+									[
+										108042,
+										108056
+									],
+									[
+										108074,
+										108088
+									],
+									[
+										108106,
+										108120
+									],
+									[
+										108138,
+										108152
+									],
+									[
+										108170,
+										108184
+									],
+									[
+										108202,
+										108216
+									],
+									[
+										108234,
+										108248
+									],
+									[
+										108266,
+										108280
+									],
+									[
+										108298,
+										108312
+									],
+									[
+										108330,
+										108344
+									],
+									[
+										108362,
+										108376
+									],
+									[
+										108394,
+										108408
+									],
+									[
+										108426,
+										108440
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10848.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 66.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 477.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.textarea":
+			{
+				"height": 138.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1087,690,3,1865",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"check",
+						"demo\\page\\component\\component-pages\\checkbox\\checkbox.wxss"
+					],
+					[
+						"fragment_diary",
+						"app\\src\\main\\res\\layout\\fragment_diary.xml"
+					],
+					[
+						"activity_diary",
+						"app\\src\\main\\res\\layout\\activity_diary.xml"
+					],
+					[
+						"badgeview",
+						"D\\android\\BadgeViewDemo\\badgeView\\src\\main\\java\\com\\jauker\\widget\\BadgeView.java"
+					],
+					[
+						"activity_show_image",
+						"D\\coding\\sobig\\app\\src\\main\\res\\layout\\activity_show_image.xml"
+					],
+					[
+						"bigimage",
+						"D\\coding\\sobig\\app\\src\\main\\java\\com\\saipeisi\\sobig\\chat\\activity\\ShowBigImageActivity.java"
+					],
+					[
+						"",
+						"WebTest\\app\\src\\main\\java\\com\\webtest\\webtest\\RestApiAutoLoginSignTest.java"
+					],
+					[
+						"include_viewpager",
+						"coding\\sobig\\app\\src\\main\\res\\layout\\include_viewpager.xml"
+					],
+					[
+						"activity_form_upload",
+						"android\\okhttp-OkGo\\app\\src\\main\\res\\layout\\activity_form_upload.xml"
+					],
+					[
+						"duotu",
+						"android\\duotu\\app\\src\\main\\java\\com\\saipeisi\\duotu\\network\\DuoTuApi.java"
+					],
+					[
+						"activity_login",
+						"app\\src\\main\\res\\layout\\activity_login.xml"
+					],
+					[
+						"loginac",
+						"app\\src\\main\\java\\com\\saipeisi\\sobig\\user\\LoginActivity.java"
+					],
+					[
+						"unityactivity",
+						"clothes\\AndroidProject\\Clothes\\src\\com\\yxf\\clothes\\UnityActivity.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 244.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
